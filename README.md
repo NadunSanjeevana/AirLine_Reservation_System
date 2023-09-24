@@ -1,5 +1,4 @@
-# AirLine_Reservation_System_Project
-# Airline Ticket Booking System
+# AirLine_Reservation_System
 
 This is our semester project for Semester 3, where we created a simplified version of an airline reservation system. This project involved both frontend and backend development, and we used various technologies to bring it to life.
 
@@ -25,7 +24,7 @@ This is our semester project for Semester 3, where we created a simplified versi
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/NadunSanjeevana/airline-ticket-booking-system.git
+git clone https://github.com/NadunSanjeevana/AirLine_Reservation_System.git
 
 Copy code
 
